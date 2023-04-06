@@ -9,6 +9,15 @@ Language: <a href="#en">EN</a>
 - ⚡ Fun fact: Bardzo lubię poznawać coraz to nowe możlwiości CSS'a <3<br>
 chociaż wolę pisać w SCSS - wydaje mi się, że kod jest bardziej przejrzysty
 
+### Języki i narzędzia wykorzystywane przy tworzeniu aplikacji:
+- Visual Studio Code (środowisko)
+- Angular 11/12 
+- TypeScript 4
+- HTML 5
+- SCSS
+- .NET Core 7
+- C#
+
 ### Projekty stworzone ze znajomymi na studiach
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
 
@@ -27,6 +36,15 @@ https://github.com/PaszekDev/mizu (Spring + Angular)
 - 📫 How to reach me: <a href="mailto:markulaks17@gmail.com">markulaks17@gmail.com</a>
 - ⚡ Fun fact: I really like to learn some new CSS possibilities <3<br>
 but I prefer to write in SCSS - I think the code is more transparent
+
+### Languages & tools for application development:
+- Visual Studio Code (environment)
+- Angular 11/12 
+- TypeScript 4
+- HTML 5
+- SCSS
+- .NET Core 7
+- C#
 
 ### Projects created in college with friends
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
