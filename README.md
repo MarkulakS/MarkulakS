@@ -22,13 +22,12 @@ chociaż wolę pisać w SCSS - wydaje mi się, że kod jest bardziej przejrzysty
 - JwtBearer 7
 - AutoMapper 12
 
-### Strona stworzona dla HardBeans
+### Podstrona stworzona dla nowych próbek HardBeans Cosmetics
 https://hardbeans-cosmetics.netlify.app/
 
-### Projekty stworzone ze znajomymi na studiach
-https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
-
-https://github.com/PaszekDev/mizu (Spring + Angular)
+### Projekty grupowe stworzone podczas studiach
+- https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
+- https://github.com/PaszekDev/mizu (Spring + Angular)
 
 ### Najczęściej używane języki
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkulakS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,13 +56,12 @@ but I prefer to write in SCSS - I think the code is more transparent
 - JwtBearer 7
 - AutoMapper 12
 
-### The website created for HardBeans
+### This subpage is created for new samples of HardBeans Cosmetics
 https://hardbeans-cosmetics.netlify.app/
 
-### Projects created in college with friends
-https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
-
-https://github.com/PaszekDev/mizu (Spring + Angular)
+### Group projects created during studies:
+- https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
+- https://github.com/PaszekDev/mizu (Spring + Angular)
 
 ### Most frequently used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkulakS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
