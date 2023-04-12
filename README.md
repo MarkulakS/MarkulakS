@@ -43,12 +43,16 @@ but I prefer to write in SCSS - I think the code is more transparent
 
 ### Languages & tools for application development:
 - Visual Studio Code (environment)
-- Angular 11/12 
+- Angular 11/12/13
 - TypeScript 4
 - HTML 5
 - SCSS
+- RxJS
 - .NET Core 7
 - C#
+- EntityFrameworkCore 7
+- JwtBearer 7
+- AutoMapper 12
 
 ### Projects created in college with friends
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
