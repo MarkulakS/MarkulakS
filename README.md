@@ -11,12 +11,16 @@ chociaż wolę pisać w SCSS - wydaje mi się, że kod jest bardziej przejrzysty
 
 ### Języki i narzędzia wykorzystywane przy tworzeniu aplikacji:
 - Visual Studio Code (środowisko)
-- Angular 11/12 
+- Angular 11/12/13
 - TypeScript 4
 - HTML 5
 - SCSS
+- RxJS
 - .NET Core 7
 - C#
+- EntityFrameworkCore 7
+- JwtBearer 7
+- AutoMapper 12
 
 ### Projekty stworzone ze znajomymi na studiach
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
