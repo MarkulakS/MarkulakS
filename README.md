@@ -22,6 +22,9 @@ chociaż wolę pisać w SCSS - wydaje mi się, że kod jest bardziej przejrzysty
 - JwtBearer 7
 - AutoMapper 12
 
+### Strona stworzona dla HardBeans
+https://hardbeans-cosmetics.netlify.app/
+
 ### Projekty stworzone ze znajomymi na studiach
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
 
@@ -53,6 +56,9 @@ but I prefer to write in SCSS - I think the code is more transparent
 - EntityFrameworkCore 7
 - JwtBearer 7
 - AutoMapper 12
+
+### The website created for HardBeans
+https://hardbeans-cosmetics.netlify.app/
 
 ### Projects created in college with friends
 https://gitlab.com/tasty-food/tasty-admin (Spring + Angular)
