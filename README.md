@@ -1,7 +1,7 @@
 # Cześć, jestem Szymon
 Language: <a href="#en">EN</a>
 
-- 🌱 Aktualnie uczę się TypeScript 4 w Angularze.
+- 🌱 Rozbudowuję swoją wiedzę z TypeScript 4 w Angularze oraz JavaScriptu.
 - 👯 Szukam doświadczenia zawodowego w Front End.
 - 🔭 Aktulanie pracuję nad kilkoma aplikacjami, które możesz zobaczyć, tam na dole ↓
 
@@ -38,7 +38,7 @@ https://hardbeans-cosmetics.netlify.app/
 
 <h1 id="en"> Hi there, I'm Simon</h1>
 
-- 🌱 I’m currently learning TypeScript 4 in Angular.
+- 🌱 I'm expanding my knowledge of TypeScript 4 in Angular and JavaScript.
 - 👯 I’m looking for a job in Front End.
 - 🔭 I’m currently working on few apps that you can see them in my, bio down there ↓
 
