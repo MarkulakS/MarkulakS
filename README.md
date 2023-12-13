@@ -18,6 +18,7 @@ https://frontmarkulak.netlify.app
 - TypeScript 4
 - HTML 5
 - SCSS
+- Bootstrap 5
 - RxJS
 - .NET Core 7
 - C#
@@ -55,6 +56,7 @@ https://frontmarkulak.netlify.app
 - TypeScript 4
 - HTML 5
 - SCSS
+- Bootstrap 5
 - RxJS
 - .NET Core 7
 - C#
